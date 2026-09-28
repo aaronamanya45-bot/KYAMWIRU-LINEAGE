@@ -1,6 +1,6 @@
 # Kyamwiru Lineage
 
- "The Kyamwiru family has lasted for over decades and still going on."
+ "The Kyamwiru family has lasted for over decades and still going on." AND IT WILL FOREVER LIVE!!
 
 A professional family legacy website celebrating the Kyamwiru Lineage — a family rooted in Sembabule District, Kankalangye, Uganda. Built with vanilla HTML, CSS, and JavaScript. No frameworks, no build step, just clean handcrafted code.
 
