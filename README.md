@@ -1,4 +1,4 @@
-# Kyamwiru Lineage
+# KYAMWIRU LiNEAGE
 
  "The Kyamwiru family has lasted for over decades and still going on." AND IT WILL FOREVER LIVE!!
 
